@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/close.png</file>
+        <file>img/hide.png</file>
+        <file>img/downArrow.png</file>
+        <file>img/rightArrow.png</file>
+        <file>img/more.png</file>
+        <file>img/use.png</file>
+        <file>img/add.png</file>
+        <file>img/leftArrow.png</file>
+        <file>img/github.png</file>
+        <file>img/circle.ico</file>
+    </qresource>
+</RCC>

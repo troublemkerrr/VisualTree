@@ -12,6 +12,8 @@
   Each node of a binary tree has at most two children.The tool puts a limit on this.
 
   The tool distinguishes the left child from the right child based on the relative position of the nodes.
+  
+  ![image](https://github.com/troublemkerrr/VisualTree/blob/master/gif/create.gif)
 
 - Select a traversal method before seeing the traversal process. 
 

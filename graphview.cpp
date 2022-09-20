@@ -389,7 +389,7 @@ void MyGraphicsView::morris(MyGraphicsVexItem * head)
         mostRight = cur->left;
         if (mostRight != nullptr && mostRight->nameText != "nullptr")
         { //cur has left subtree
-            while (mostRight->right->nameText != "nullptr" && mostRight->right->nameText != cur->nameText) { //找左树上最右节点
+            while (mostRight->right->nameText != "nullptr" && mostRight->right->nameText != cur->nameText) { 
                 mostRight = mostRight->right;
             }
             if (mostRight->right->nameText == "nullptr") { //arrived cur for the first time

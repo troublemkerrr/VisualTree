@@ -25,3 +25,7 @@
   ![image](https://github.com/troublemkerrr/VisualTree/blob/master/gif/slidepage.gif)
   ![image](https://github.com/troublemkerrr/VisualTree/blob/master/gif/info.gif)
   ![image](https://github.com/troublemkerrr/VisualTree/blob/master/gif/code.gif)
+   
+### Where can I get it?
+for windows:
+https://github.com/troublemkerrr/VisualTree/releases/download/V1.0.0/VirtualTree1.0.0.zip
